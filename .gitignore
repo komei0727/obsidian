@@ -1,1 +1,8 @@
-.obsidian/
+# Obsidianº-š
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/
+.obsidian/snippets/
+.obsidian/themes/*/
+.obsidian/graph.json

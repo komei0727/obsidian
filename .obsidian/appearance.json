@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "safaritabs",
+    "biggerf_first_letter",
+    "heading-indicators",
+    "improved-headings"
+  ]
+}
